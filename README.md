@@ -16,13 +16,13 @@
 1. Склонируйте репозиторий на свой компьютер:
    
     ```bash
-    git clone <URL_репозитория>
+    git clone https://github.com/Jaba-Klava/LinkDrink.git
    ```
 
 2. Перейдите в директорию проекта:
 
 ```bash
-    cd <имя_директории>
+    cd LinkDrink
 ```
 
 3. Скомпилируйте и запустите проект:
